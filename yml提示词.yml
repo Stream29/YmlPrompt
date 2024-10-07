@@ -73,9 +73,6 @@ functions:
     params:
       - 搜索的问题
     return: 搜索得到的问题的答案
-  effect:
-    type: 赋予时装
-    new_dress: 更好看的皮肤
 
 schema:
   yml:
